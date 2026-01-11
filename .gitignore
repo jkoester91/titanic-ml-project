@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.DS_Store
+training/data/titanic.csv
+training/models/*.joblib
+serving/models/*.joblib
